@@ -11,10 +11,16 @@ The repository is organized to separate conceptual knowledge, practical code, an
 - **[Classification](./01-Papers-Notes/02-Classification/)**
   - [CovidNet (2020)](./01-literature-and-code/02-Classification/2020-CovidNet.md)
   - [CheXNet (2017)](./01-literature-and-code/02-Classification/2017-CheXNet.md)
-- **[Detection-Localization](./01-Papers-Notes/01-Segmentation/)**
+- **[Detection-Localization](./01-Papers-Notes/01-Detection-Localization/)**
   - [nnUNet (2022)](./01-Papers-Notes/01-Detection-Localization/2022-nnUNet.md)
   - [TransUNet (2021)](./01-Papers-Notes/01-Detection-Localization/2021-TransUNet.md)
   - [UNet++ (2020)](./01-Papers-Notes/01-Detection-Localization/2020-UNet++.md)
-- **[Classification](./01-Papers-Notes/02-Classification/)**
+- **[Registration](./01-Papers-Notes/02-Classification/)**
+  - [CovidNet (2020)](./01-Papers-Notes/02-Classification/2020-CovidNet.md)
+  - [CheXNet (2017)](./01-Papers-Notes/02-Classification/2017-CheXNet.md)
+- **[Reconstruction](./01-Papers-Notes/02-Classification/)**
+  - [CovidNet (2020)](./01-Papers-Notes/02-Classification/2020-CovidNet.md)
+  - [CheXNet (2017)](./01-Papers-Notes/02-Classification/2017-CheXNet.md)
+- **[Generative](./01-Papers-Notes/02-Classification/)**
   - [CovidNet (2020)](./01-Papers-Notes/02-Classification/2020-CovidNet.md)
   - [CheXNet (2017)](./01-Papers-Notes/02-Classification/2017-CheXNet.md)
