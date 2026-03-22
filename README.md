@@ -1,2 +1,2 @@
 # deep-learning-medical-imaging
-My personal notes on academic papers and research literature.
+A curated collection of papers, code resources, and notes on Deep Learning for Medical Image Analysis.
