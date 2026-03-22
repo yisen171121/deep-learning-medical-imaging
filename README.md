@@ -3,7 +3,7 @@ A curated collection of papers, code resources, and notes on Deep Learning for M
 
 ## 📁 Repository Architecture Overview
 The repository is organized to separate conceptual knowledge, practical code, and essential resources, following a clear progression from fundamentals to advanced applications.
-- **[图像分割](./01-Papers-Notes/01-Segmentation/)** - 医学图像分割算法
+- **[图像分割](./01-Papers-Notes/01-Segmentation/)**
   - [nnUNet (2022)](./01-Papers-Notes/01-Segmentation/2022-nnUNet.md)
   - [TransUNet (2021)](./01-Papers-Notes/01-Segmentation/2021-TransUNet.md)
   - [UNet++ (2020)](./01-Papers-Notes/01-Segmentation/2020-UNet++.md)
