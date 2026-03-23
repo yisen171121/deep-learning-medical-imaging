@@ -24,6 +24,8 @@ The repository is organized to separate conceptual knowledge, practical code, an
 - **[Generative](./01-Papers-Notes/02-Classification/)**
   - [CovidNet (2020)](./01-Papers-Notes/02-Classification/2020-CovidNet.md)
   - [CheXNet (2017)](./01-Papers-Notes/02-Classification/2017-CheXNet.md)
+ 
+
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
